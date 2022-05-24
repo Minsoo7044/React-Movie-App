@@ -1,3 +1,5 @@
+## site address: https://Minsoo7044.github.io/react-movie-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
