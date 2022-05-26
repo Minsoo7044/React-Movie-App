@@ -21,7 +21,7 @@ function MovieDetail({ id, coverImg, title, summary, year, rating, like_count, r
           <span>runtime: {runtime}</span>
         </div>
         <div>
-          <a href="{url}">{url}</a>
+          <a href={url}>{url}</a>
         </div>
         <br></br>
         <ul className={styles.movie__genres}>
